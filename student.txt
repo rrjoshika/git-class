@@ -1,0 +1,3 @@
+student name: jo
+course:python
+subject:git and git hub
